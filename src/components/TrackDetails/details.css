@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+}
+.component-track-details {
+  border-bottom: 1px solid #fafafa;
+  box-shadow: 1px 3px 5px green;
+}
+.component-track-details:hover {
+  box-shadow: 1px 3px 5px green;
+  transform: scale(1.1);
+  
+}
+.component-track-details-selected {
+  border-bottom: 1px solid #fafafa;
+  box-shadow: -1px -3px 5px red;
+  pointer-events: none;
+  opacity: 0.5;
+}
+.component-track-details-track-name h5 {
+  font-weight: normal;
+  font-size: large;
+  margin-top: 1.5rem;
+}
+.component-track-details-track-album-name h6 {
+  font-weight: lighter;
+  font-size: large;
+}
+
+
+
