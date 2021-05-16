@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
-.App {
+/* .App {
   display: flex;
   align-items: center;
   max-width: 600px;
@@ -8,6 +8,21 @@
   text-align: center;
   font-family: Quicksand;
   color: #333;
+} */
+.Home {
+  display: flex;
+  /* align-items: center; */
+  /* max-width: 600px; */
+  /* margin: 0 auto; */
+  text-align: center;
+  font-family: Quicksand;
+  color: #333;
+}
+.tracksList {
+  flex: 1;
+}
+.favoriteTracksList {
+  flex: 1;
 }
 h1 {
   font-weight: 400;

@@ -2,6 +2,8 @@
   margin: 0;
 }
 .component-track-details {
+  width: 60%;
+  margin: 0 auto;
   border-bottom: 1px solid #fafafa;
   box-shadow: 1px 3px 5px green;
 }
@@ -11,6 +13,8 @@
   
 }
 .component-track-details-selected {
+  width: 60%;
+  margin: 0 auto;
   border-bottom: 1px solid #fafafa;
   box-shadow: -1px -3px 5px red;
   pointer-events: none;
