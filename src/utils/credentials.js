@@ -1,7 +1,7 @@
 function Credentials() {
   return {
-    ClientId: 'b49a0989c53648abac0e28bbd14f31cd',
-    ClientSecret: '0ed9a205bf414443bcade0fcc89930ba'
+    ClientId: 'enter your credentials',
+    ClientSecret: 'enter your credentials'
   };
 }
 
